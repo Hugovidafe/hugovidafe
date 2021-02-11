@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/hugovidafe?template=classic&base.metadata=0&activity=1&languages=1&isocalendar=1&activity.limit=10&activity.days=30&activity.filter=all&isocalendar.duration=undefined&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMadrid&config.animated=true)
+
